@@ -46,4 +46,7 @@ public class Calculator {
         if (discountAmount < 0) throw new IllegalArgumentException("Процент скидки не может быть отрицательным");
         return resultAmount; // Метод должен возвращать сумму покупки со скидкой
     }
+
+    public static void getOperand() {
+    }
 }
