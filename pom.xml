@@ -20,6 +20,11 @@
             <version>4.13.2</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-migration-support</artifactId>
+            <version>5.0.0-M4</version>
+        </dependency>
     </dependencies>
 
 </project>
